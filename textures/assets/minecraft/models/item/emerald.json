@@ -533,7 +533,7 @@
 		{ "predicate": { "custom_model_data": 2200525}, "model": "item/raulh22/slimefun/slimefun/none"},
 		{ "predicate": { "custom_model_data": 2200526}, "model": "item/raulh22/slimefun/slimefun/energy/wither_assembler"},
 		{ "predicate": { "custom_model_data": 2200527}, "model": "item/raulh22/slimefun/slimefun/items/tape_measure"},
-		{ "predicate": { "custom_model_data": 2200528}, "model": "item/raulh22/slimefun/slimefun/none"},
+		{ "predicate": { "custom_model_data": 2200528}, "model": "item/raulh22/slimefun/slimefun/talisman1/wise"},
 		{ "predicate": { "custom_model_data": 2200529}, "model": "item/raulh22/slimefun/slimefun/none"},
 		{ "predicate": { "custom_model_data": 2200530}, "model": "item/raulh22/slimefun/slimefun/none"},
 		{ "predicate": { "custom_model_data": 2200531}, "model": "item/raulh22/slimefun/slimefun/none"},
@@ -605,8 +605,6 @@
 		{ "predicate": { "custom_model_data": 2200597}, "model": "item/raulh22/slimefun/slimefun/none"},
 		{ "predicate": { "custom_model_data": 2200598}, "model": "item/raulh22/slimefun/slimefun/none"},
 		{ "predicate": { "custom_model_data": 2200599}, "model": "item/raulh22/slimefun/slimefun/none"},
-		{ "predicate": { "custom_model_data": 2200600}, "model": "item/raulh22/slimefun/slimefun/none"},
-		{ "predicate": { "custom_model_data": 2200601}, "model": "item/raulh22/slimefun/slimefun/talisman1/wise"}
-
+		{ "predicate": { "custom_model_data": 2200600}, "model": "item/raulh22/slimefun/slimefun/none"}
 	]
 }
