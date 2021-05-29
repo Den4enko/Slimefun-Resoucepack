@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
-	"author": "RaulH22",
+	"author": "Den4enko",
     "textures": {
         "layer0": "items/raulh22/slimefun/slimefun/talisman1/wise"
     },
