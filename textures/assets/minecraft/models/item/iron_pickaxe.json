@@ -320,7 +320,7 @@
 		{ "predicate": { "custom_model_data": 2200312}, "model": "item/raulh22/slimefun/slimefun/weapons/icy_bow/icy_bow"},
 		{ "predicate": { "custom_model_data": 2200313}, "model": "item/raulh22/slimefun/slimefun/magical_gadgets/knowledge_tome"},
 		{ "predicate": { "custom_model_data": 2200314}, "model": "item/raulh22/slimefun/slimefun/magical_gadgets/knowledge_flask"},
-		{ "predicate": { "custom_model_data": 2200315}, "model": "item/raulh22/slimefun/slimefun/none"},
+		{ "predicate": { "custom_model_data": 2200315}, "model": "item/den4enko/slimefun/slimefun/tools/climbing_pick"},
 		{ "predicate": { "custom_model_data": 2200316}, "model": "item/raulh22/slimefun/slimefun/none"},
 		{ "predicate": { "custom_model_data": 2200317}, "model": "item/raulh22/slimefun/slimefun/none"},
 		{ "predicate": { "custom_model_data": 2200318}, "model": "item/raulh22/slimefun/slimefun/none"},
