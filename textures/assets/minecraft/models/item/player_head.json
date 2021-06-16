@@ -332,7 +332,7 @@
 		{ "predicate": { "custom_model_data": 2200327}, "model": "item/raulh22/slimefun/slimefun/none"},
 		{ "predicate": { "custom_model_data": 2200328}, "model": "item/raulh22/slimefun/slimefun/none"},
 		{ "predicate": { "custom_model_data": 2200329}, "model": "item/raulh22/slimefun/slimefun/none"},
-		{ "predicate": { "custom_model_data": 2200330}, "model": "item/raulh22/slimefun/slimefun/none"},
+		{ "predicate": { "custom_model_data": 2200330}, "model": "item/den4enko/slimefun/slimefun/energy/energized_capacitor"},
 		{ "predicate": { "custom_model_data": 2200331}, "model": "item/den4enko/slimefun/slimefun/energy/energy_connector"},
 		{ "predicate": { "custom_model_data": 2200332}, "model": "item/raulh22/slimefun/slimefun/miscellaneous/reinforced_plate"},
 		{ "predicate": { "custom_model_data": 2200333}, "model": "item/raulh22/slimefun/slimefun/technical_components/hardened_glass"},
