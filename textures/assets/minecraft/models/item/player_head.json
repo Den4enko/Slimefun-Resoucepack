@@ -257,7 +257,7 @@
 		{ "predicate": { "custom_model_data": 2200252}, "model": "item/raulh22/slimefun/slimefun/basic_machines/crucible"},
 		{ "predicate": { "custom_model_data": 2200253}, "model": "item/raulh22/slimefun/slimefun/items/backpack_gilded"},
 		{ "predicate": { "custom_model_data": 2200254}, "model": "item/raulh22/slimefun/slimefun/items/backpack_radiant"},
-		{ "predicate": { "custom_model_data": 2200255}, "model": "item/raulh22/slimefun/slimefun/none"},
+		{ "predicate": { "custom_model_data": 2200255}, "model": "item/den4enko/slimefun/slimefun/restored_backpack"},
 		{ "predicate": { "custom_model_data": 2200256}, "model": "item/raulh22/slimefun/slimefun/technical_components/magnet"},
 		{ "predicate": { "custom_model_data": 2200257}, "model": "item/raulh22/slimefun/slimefun/magical_gadgets/infused_magnet"},
 		{ "predicate": { "custom_model_data": 2200258}, "model": "item/raulh22/slimefun/slimefun/tools/cobalt_pickaxe"},
