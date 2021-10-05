@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/redstone"
+  },
+     "overrides": [ 
+          { "predicate": { "custom_model_data": 3300003}, "model": "item/mvs/slimefun/slimefun/mvs/ketchup"}
+        ]
+   }
