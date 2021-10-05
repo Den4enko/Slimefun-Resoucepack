@@ -383,6 +383,7 @@
 		{ "predicate": { "custom_model_data": 2200378}, "model": "item/raulh22/slimefun/slimefun/resources/valuables/magnesium_salt"},
 		{ "predicate": { "custom_model_data": 2200379}, "model": "item/raulh22/slimefun/slimefun/energy/magnesium_generator"},
 		{ "predicate": { "custom_model_data": 2200380}, "model": "item/raulh22/slimefun/slimefun/energy/auto_enchanter"},
+		{ "predicate": { "custom_model_data": 3300381}, "model": "item/den4enko/slimefun/slimefun/energy/auto_enchanter2"},
 		{ "predicate": { "custom_model_data": 2200381}, "model": "item/raulh22/slimefun/slimefun/energy/auto_disenchanter"},
 		{ "predicate": { "custom_model_data": 2200382}, "model": "item/raulh22/slimefun/slimefun/none"},
 		{ "predicate": { "custom_model_data": 2200383}, "model": "item/raulh22/slimefun/slimefun/none"},
